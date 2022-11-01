@@ -2,14 +2,14 @@
 
 Solución al reto:
 
-Nombre:
-Usuario Platzi:
+Nombre: Jose Alfredo Osorio Garcia
+Usuario Platzi: Apofis11
 
 ## Reto:
 
-- [ ] Primer problema
-- [ ] Segundo problema
-- [ ] Tercer problema
-- [ ] Cuarto Problema
-- [ ] Quinto Problema
-- [ ] Sexto Problema
+- [x] Primer problema
+- [X] Segundo problema
+- [X] Tercer problema
+- [X] Cuarto Problema
+- [X] Quinto Problema
+- [X] Sexto Problema
